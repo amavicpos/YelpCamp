@@ -10,8 +10,6 @@ The Web Developer Bootcamp 2023, Udemy
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
