@@ -2,7 +2,7 @@
 
 Welcome to YelpCamp! This repository contains the code for a web application called YelpCamp, a platform for users to discover and share their favorite campgrounds. The application allows users to sign up, add, edit, and review campgrounds. It also provides various features to make camping planning easier and more enjoyable. Visit it at: https://vibrant-baguette-87282-69333552e9e2.herokuapp.com/
 
-This project was made as part of the Web Developer Bootcamp 2023 in Udemy. It's how I learnt the basics of web development, especially back-end.
+This project was made as part of the Web Developer Bootcamp 2023 in Udemy. It's how I learnt the basics of web development, especially backend.
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ Follow these steps to set up the YelpCamp application locally:
 
 YelpCampWeb provides a user-friendly interface for users to explore and contribute to campgrounds. Here are some common actions users can perform:
 
-- **Signup/Login**: Users need to sign up or log in to access personalized features such as adding new campgrounds or leaving reviews.
+- **Signup/Login**: Users need to sign up or log in to access personalised features such as adding new campgrounds or leaving reviews.
 - **View Campgrounds**: Users can browse through a list of campgrounds, view individual campground details, and read reviews from other users.
 - **Add Campgrounds**: Logged-in users can add new campgrounds by providing details like name, description, image, and location.
 - **Edit Campgrounds**: Users who created a campground can edit its details.
