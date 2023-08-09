@@ -1,4 +1,4 @@
-# YelpCampWeb
+# Yelp Camp
 
 Welcome to YelpCampWeb! This repository contains the code for a web application called YelpCamp, a platform for users to discover and share their favorite campgrounds. The application allows users to sign up, add, edit, and review campgrounds. It also provides various features to make camping planning easier and more enjoyable. Visit it at: https://vibrant-baguette-87282-69333552e9e2.herokuapp.com/
 
