@@ -1,8 +1,8 @@
-# Yelp Camp
+# YelpCamp
 
-Welcome to YelpCampWeb! This repository contains the code for a web application called YelpCamp, a platform for users to discover and share their favorite campgrounds. The application allows users to sign up, add, edit, and review campgrounds. It also provides various features to make camping planning easier and more enjoyable. Visit it at: https://vibrant-baguette-87282-69333552e9e2.herokuapp.com/
+Welcome to YelpCamp! This repository contains the code for a web application called YelpCamp, a platform for users to discover and share their favorite campgrounds. The application allows users to sign up, add, edit, and review campgrounds. It also provides various features to make camping planning easier and more enjoyable. Visit it at: https://vibrant-baguette-87282-69333552e9e2.herokuapp.com/
 
-The Web Developer Bootcamp 2023, Udemy
+This project was made as part of the Web Developer Bootcamp 2023 in Udemy. It's how I learnt the basics of web development, especially back-end.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ The Web Developer Bootcamp 2023, Udemy
 
 ## Features
 
-- User authentication: Users can sign up, log in, and log out securely to access personalized features.
+- User authentication: Users can sign up, log in, and log out securely to access personalised features.
 - Campground management: Users can add new campgrounds with details such as name, image, description, and location.
 - Campground reviews: Registered users can leave reviews and ratings for campgrounds.
 - Interactive map: The application provides an interactive map with markers for each campground location.
@@ -22,13 +22,13 @@ The Web Developer Bootcamp 2023, Udemy
 
 ## Installation
 
-Follow these steps to set up the YelpCampWeb application locally:
+Follow these steps to set up the YelpCamp application locally:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/amavicpos/YelpCampWeb.git
-   cd YelpCampWeb
+   git clone https://github.com/amavicpos/YelpCamp.git
+   cd YelpCamp
    ```
 
 2. Install the dependencies:
@@ -62,7 +62,7 @@ YelpCampWeb provides a user-friendly interface for users to explore and contribu
 
 ## Technologies Used
 
-YelpCampWeb utilizes the following technologies:
+YelpCamp utilises the following technologies:
 
 - **Node.js**: The application is built on Node.js, providing a robust backend environment.
 - **Express.js**: Express.js is used to create a fast and minimalist web application framework for Node.js.
@@ -73,4 +73,4 @@ YelpCampWeb utilizes the following technologies:
 
 ---
 
-Thank you for exploring YelpCampWeb! If you have any questions or feedback, please feel free to contact me or raise an issue in the repository. Happy camping! 🏕️
+Thank you for exploring YelpCamp! If you have any questions or feedback, please feel free to contact me or raise an issue in the repository. Happy camping! 🏕️
