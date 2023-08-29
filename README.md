@@ -51,7 +51,7 @@ Follow these steps to set up the YelpCamp application locally:
 
 ## Usage
 
-YelpCampWeb provides a user-friendly interface for users to explore and contribute to campgrounds. Here are some common actions users can perform:
+YelpCamp provides a user-friendly interface for users to explore and contribute to campgrounds. Here are some common actions users can perform:
 
 - **Signup/Login**: Users need to sign up or log in to access personalised features such as adding new campgrounds or leaving reviews.
 - **View Campgrounds**: Users can browse through a list of campgrounds, view individual campground details, and read reviews from other users.
